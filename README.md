@@ -13,6 +13,8 @@ http://www.pygame.org/hifi.html
 
 https://bitbucket.org/pygame/pygame/downloads
 
+Download and extract zip file (ignore pycache)
+
 Open directory
 
 Run Chess.py: >python Chess.py
