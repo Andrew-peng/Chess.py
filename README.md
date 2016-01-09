@@ -17,4 +17,8 @@ Open directory
 
 Run Chess.py: >python Chess.py
 
-#Have fun!
+#Have fun! 
+
+![untitled](https://cloud.githubusercontent.com/assets/16567296/12214857/8f11caf2-b659-11e5-8957-93ceaa0885a5.png)
+
+Colors can be changed in source code
