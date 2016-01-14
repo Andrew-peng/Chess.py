@@ -1,3 +1,5 @@
+#Created by Andrew Peng
+#www.andrew-peng.com
 import pygame,sys, math
 from pygame.locals import *
 from Classes import *
