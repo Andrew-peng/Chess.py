@@ -1,7 +1,7 @@
 # Chess.py created by Andrew Peng
 Player vs Player chess game built using PyGame 
 
-Must have Python 3.4 and Pygame 1.9.2 downloaded. 
+Must have Python 3.4 and Pygame 1.9.2 installed.
 
 Python:
 
@@ -13,7 +13,7 @@ http://www.pygame.org/hifi.html
 
 https://bitbucket.org/pygame/pygame/downloads
 
-Download and extract zip file (ignore pycache)
+Download and extract zip file
 
 Open directory
 
